@@ -1,0 +1,9 @@
+{
+	"level": [
+		{"duration":10000, "enemy": 10, "bossHP":5, "rocketsPerSeconde": 1},
+		{"duration":15000, "enemy": 75, "bossHP":20, "rocketsPerSeconde": 1.5},
+		{"duration":30000, "enemy": 150, "bossHP":30, "rocketsPerSeconde": 2},
+		{"duration":50000, "enemy": 300, "bossHP":40, "rocketsPerSeconde": 2.3},
+		{"duration":100000, "enemy": 700, "bossHP":70, "rocketsPerSeconde": 2.5}
+	]
+}
